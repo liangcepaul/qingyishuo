@@ -1,191 +1,5 @@
 # Mastering Complex Project Management and Technological Integration: A Case Study and Practical Application
 
-# Menu {#menu .TOC-Heading}
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-
-[1. Introduction (Rapid Developments in the Field of Information
-Technology Today).
-[5](#introduction-rapid-developments-in-the-field-of-information-technology-today.)](#introduction-rapid-developments-in-the-field-of-information-technology-today.)
-
-[2. Research background and the empowerment process of participating in
-the project
-[6](#research-background-and-the-empowerment-process-of-participating-in-the-project)](#research-background-and-the-empowerment-process-of-participating-in-the-project)
-
-[3. Research motivation [8](#research-motivation)](#research-motivation)
-
-[1. Background and challenges of internal projects
-[8](#background-and-challenges-of-internal-projects)](#background-and-challenges-of-internal-projects)
-
-[2. Trigger the core questions of the research
-[8](#trigger-the-core-questions-of-the-research)](#trigger-the-core-questions-of-the-research)
-
-[4. Research Objectives and Problem Statement
-[9](#research-objectives-and-problem-statement)](#research-objectives-and-problem-statement)
-
-[5. Project Overview [10](#project-overview)](#project-overview)
-
-[1. Background of the project
-[10](#background-of-the-project)](#background-of-the-project)
-
-[2. Main project objectives
-[10](#main-project-objectives)](#main-project-objectives)
-
-[3. Key challenges of the project
-[10](#key-challenges-of-the-project)](#key-challenges-of-the-project)
-
-[6. Needs analysis and customization functions
-[11](#needs-analysis-and-customization-functions)](#needs-analysis-and-customization-functions)
-
-[1. Online course management
-[11](#online-course-management)](#online-course-management)
-
-[2. Integration of payment features
-[11](#integration-of-payment-features)](#integration-of-payment-features)
-
-[3. Order system docking
-[12](#order-system-docking)](#order-system-docking)
-
-[4. Product management [12](#product-management)](#product-management)
-
-[5. Test preparation information, study advice, and exam time management
-[12](#test-preparation-information-study-advice-and-exam-time-management)](#test-preparation-information-study-advice-and-exam-time-management)
-
-[6. Student and Membership Management
-[12](#student-and-membership-management)](#student-and-membership-management)
-
-[7. Geographic information system integration of the location of the
-institution and the management of the division of labor of the agency of
-the institution
-[13](#geographic-information-system-integration-of-the-location-of-the-institution-and-the-management-of-the-division-of-labor-of-the-agency-of-the-institution)](#geographic-information-system-integration-of-the-location-of-the-institution-and-the-management-of-the-division-of-labor-of-the-agency-of-the-institution)
-
-[8. Secondary commission referral system for employees and members
-[13](#secondary-commission-referral-system-for-employees-and-members)](#secondary-commission-referral-system-for-employees-and-members)
-
-[9. Comment system and after-sales processing
-[14](#comment-system-and-after-sales-processing)](#comment-system-and-after-sales-processing)
-
-[10. Management of course question bank
-[15](#management-of-course-question-bank)](#management-of-course-question-bank)
-
-[11. Internal Affairs Management
-[15](#internal-affairs-management)](#internal-affairs-management)
-
-[12. The functions of the Financial Management module are described
-below
-[15](#the-functions-of-the-financial-management-module-are-described-below)](#the-functions-of-the-financial-management-module-are-described-below)
-
-[13. Commission payment and withdrawal application management
-[16](#commission-payment-and-withdrawal-application-management)](#commission-payment-and-withdrawal-application-management)
-
-[14. Attendance Statistics System
-[17](#attendance-statistics-system)](#attendance-statistics-system)
-
-[15. My Work Module [17](#my-work-module)](#my-work-module)
-
-[16. A description of the list of rating ranking information
-[18](#a-description-of-the-list-of-rating-ranking-information)](#a-description-of-the-list-of-rating-ranking-information)
-
-[17. Technical Support Feedback Docking (Ticket System)
-[18](#technical-support-feedback-docking-ticket-system)](#technical-support-feedback-docking-ticket-system)
-
-[18. Intra-site message system
-[20](#intra-site-message-system)](#intra-site-message-system)
-
-[19. Permission Management Docking
-[21](#permission-management-docking)](#permission-management-docking)
-
-[20. Server Procurement and Preferential Policies
-[22](#server-procurement-and-preferential-policies)](#server-procurement-and-preferential-policies)
-
-[21. Project management and cloud server operation and maintenance
-[22](#project-management-and-cloud-server-operation-and-maintenance)](#project-management-and-cloud-server-operation-and-maintenance)
-
-[22. Interface Customization
-[22](#interface-customization)](#interface-customization)
-
-[23. Data Separation Strategy
-[23](#data-separation-strategy)](#data-separation-strategy)
-
-[7. Description of the server environment
-[24](#description-of-the-server-environment)](#description-of-the-server-environment)
-
-[1. Operating System: Linux (CentOS)
-[24](#operating-system-linux-centos)](#operating-system-linux-centos)
-
-[2. Web Server: Apache [24](#web-server-apache)](#web-server-apache)
-
-[3. PHP version [24](#php-version)](#php-version)
-
-[4. MySQL version [24](#mysql-version)](#mysql-version)
-
-[5. PHP Core module status
-[24](#php-core-module-status)](#php-core-module-status)
-
-[8. Outline of the overall architecture of the website
-[27](#outline-of-the-overall-architecture-of-the-website)](#outline-of-the-overall-architecture-of-the-website)
-
-[9. Project management and final payment processing
-[30](#project-management-and-final-payment-processing)](#project-management-and-final-payment-processing)
-
-[1. Agile development methods
-[30](#agile-development-methods)](#agile-development-methods)
-
-[2. Iterative cycle planning
-[30](#iterative-cycle-planning)](#iterative-cycle-planning)
-
-[3. Final payment agreement and delivery standard
-[30](#final-payment-agreement-and-delivery-standard)](#final-payment-agreement-and-delivery-standard)
-
-[4. Risk Management [30](#risk-management)](#risk-management)
-
-[10. Project Contract Terms
-[31](#project-contract-terms)](#project-contract-terms)
-
-[1. Rights and obligations of the parties
-[31](#rights-and-obligations-of-the-parties)](#rights-and-obligations-of-the-parties)
-
-[2. Completion of website construction and release time
-[33](#completion-of-website-construction-and-release-time)](#completion-of-website-construction-and-release-time)
-
-[3. Acceptance procedures and standards and modification and
-supplementation after acceptance
-[33](#acceptance-procedures-and-standards-and-modification-and-supplementation-after-acceptance)](#acceptance-procedures-and-standards-and-modification-and-supplementation-after-acceptance)
-
-[4. Liability for breach of contract and dispute resolution
-[33](#liability-for-breach-of-contract-and-dispute-resolution)](#liability-for-breach-of-contract-and-dispute-resolution)
-
-[5. Disclaimer [34](#disclaimer)](#disclaimer)
-
-[6. Supplementary Provisions
-[34](#supplementary-provisions)](#supplementary-provisions)
-
-[11. Technical team and personnel training
-[35](#technical-team-and-personnel-training)](#technical-team-and-personnel-training)
-
-[1. Multi-domain skill requirements:
-[35](#multi-domain-skill-requirements)](#multi-domain-skill-requirements)
-
-[2. Team collaboration and management
-[35](#team-collaboration-and-management)](#team-collaboration-and-management)
-
-[3. Employee training [35](#employee-training)](#employee-training)
-
-[12. Project success and future prospects
-[36](#project-success-and-future-prospects)](#project-success-and-future-prospects)
-
-[1. Success criteria [36](#success-criteria)](#success-criteria)
-
-[2. Project delivery and acceptance
-[36](#project-delivery-and-acceptance)](#project-delivery-and-acceptance)
-
-[3. Pave the way for future growth
-[36](#pave-the-way-for-future-growth)](#pave-the-way-for-future-growth)
-
-[13. Appendix [37](#appendix)](#appendix)
-
-#  qys12321.com
-
 # 1. Introduction (Rapid Developments in the Field of Information Technology Today).
 
 In today\'s digital age, the fields of computer science and software
@@ -607,27 +421,27 @@ The following is the content of the requirements of Party B and Party A:
 > database to record information about each transaction, including the
 > order number, transaction status, transaction amount, etc. With this
 > table, you can do the following:
-
--   Record transaction information: Whenever a user initiates a payment
-    request, insert a record into the transaction history table,
-    containing information such as order number, transaction status,
-    etc.
-
--   Query transaction status: When you need to query the status of a
-    transaction, you can directly query the record of the corresponding
-    order number in the transaction record table, instead of querying
-    the transaction status with the payment platform through rounding
-    multiple times.
-
--   Update transaction status: When you receive a payment result
-    notification from the payment platform, you can directly update the
-    transaction status of the corresponding order number in the
-    transaction record table without the need to check or update it
-    again.
-
--   Avoid duplicate records: Before inserting transactions, you can
-    check that records with the same order number already exist in the
-    database to avoid duplicate records.
+>
+> -   Record transaction information: Whenever a user initiates a payment
+>     request, insert a record into the transaction history table,
+>     containing information such as order number, transaction status,
+>     etc.
+>
+> -   Query transaction status: When you need to query the status of a
+>     transaction, you can directly query the record of the corresponding
+>     order number in the transaction record table, instead of querying
+>     the transaction status with the payment platform through rounding
+>     multiple times.
+>
+> -   Update transaction status: When you receive a payment result
+>     notification from the payment platform, you can directly update the
+>     transaction status of the corresponding order number in the
+>     transaction record table without the need to check or update it
+>     again.
+>
+> -   Avoid duplicate records: Before inserting transactions, you can
+>     check that records with the same order number already exist in the
+>     database to avoid duplicate records.
 
 ## 3. Order system docking
 
@@ -680,124 +494,126 @@ The following is the content of the requirements of Party B and Party A:
 
 -   Establish a commission sharing relationship between employees and
     members, and support secondary referrals.
-
 -   These include a list of recommendations for employees and members,
     statistics on the number of referrals, and more.
-
 -   The following is a description of the secondary commission referral
     system for employees and members:
 
-    a.  Employee commission list (records the commission generated by
-        employee referral members.) Include the following information):
+> Employee commission list (records the commission generated by
+>     employee referral members.), Include the following information:
+>
+> - Referrer: The employee\'s name.
+>
+> - Referee: Member\'s mobile phone number.
+>
+> - Order number: The order number of the commission that triggers the
+>   commission.
+>
+> - Product Name: The name of the product purchased in the order.
+>
+> - Number of Member Referrals: The number of members recommended by the
+>   employee.
+>
+> - Commission/Transaction: The amount of commission generated per
+>   order.
+>
+> - Date: The date on which the commission is accrued.
+>
+>   
 
-<!-- -->
 
--   Referrer: The employee\'s name.
 
--   Referee: Member\'s mobile phone number.
+> Number of employee referrals (Statistics on the number of
+>     affiliates and courses referred by employees, as well as related
+>     commission information.), Include the following information:
+>
+> -   Employee: The employee\'s name.
+>
+> -   Mobile phone number: The contact information of the employee.
+>
+> -   Number of Member Referrals: The number of members recommended by the
+>     employee.
+>
+> -   Number of Course Referrals: The number of courses recommended by the
+>     employee.
+>
+> -   Sum of commissions: The total amount of commissions received by the
+>     employee.
+>
+> -   Claimable Bounty Balance: The balance of the commission that the
+>     employee can request to withdraw.
+>
+> -   Amount of Commissions Withdrawn: The amount of commissions that the
+>     employee has withdrawn.
+>
+> -   Date: The date on which the statistics were collected.
 
--   Order number: The order number of the commission that triggers the
-    commission.
 
--   Product Name: The name of the product purchased in the order.
 
--   Number of Member Referrals: The number of members recommended by the
-    employee.
+> Employee Referral List (Records the registration status of
+>     employee referral members.), Include the following information:
+>
+> -   Referrer: The employee\'s name.
+>
+> -   Referee: Member\'s mobile phone number.
+>
+> -   Registration Date: The date on which the member registered.
 
--   Commission/Transaction: The amount of commission generated per
-    order.
+> Member commission list (record the commission generated by
+>     members referring other members.), Include the following
+>     information:
+>
+> -   Referrer: The member\'s mobile phone number.
+>
+> -   Referee: The mobile phone number of the purchasing member.
+>
+> -   Purchaser: The mobile phone number of the member who actually
+>     purchased the product.
+>
+> -   Order number: The order number of the purchase that triggers the
+>     commission.
+>
+> -   Product Name: The name of the product purchased.
+>
+> -   Commission/Transaction: The amount of commission generated per
+>     order.
+>
+> -   Date: The date on which the commission is accrued.
 
--   Date: The date on which the commission is accrued.
+> Number of Member Referrals (Statistics on the number of other
+>     affiliates and courses referred by members, as well as related
+>     commission information.), Include the following information:
+>
+> -   Member: The mobile phone number of the recommended member.
+>
+> -   Mobile phone number: the contact information of the member.
+>
+> -   Number of Member Referrals: The number of members referred by that
+>     member.
+>
+> -   Number of Recommended Courses: The number of courses recommended by
+>     the member.
+>
+> -   Sum of Commissions: The total amount of commissions received by the
+>     member.
+>
+> -   Claimable Bounty Balance: The balance of the commission that members
+>     can apply for withdrawal.
+>
+> -   Withdrawn Commission Amount: The amount of commission that the
+>     member has withdrawn.
+>
+> -   Date: The date on which the statistics were collected.
 
-    a.  Number of employee referrals (Statistics on the number of
-        affiliates and courses referred by employees, as well as related
-        commission information.) Include the following information):
-
--   Employee: The employee\'s name.
-
--   Mobile phone number: The contact information of the employee.
-
--   Number of Member Referrals: The number of members recommended by the
-    employee.
-
--   Number of Course Referrals: The number of courses recommended by the
-    employee.
-
--   Sum of commissions: The total amount of commissions received by the
-    employee.
-
--   Claimable Bounty Balance: The balance of the commission that the
-    employee can request to withdraw.
-
--   Amount of Commissions Withdrawn: The amount of commissions that the
-    employee has withdrawn.
-
--   Date: The date on which the statistics were collected.
-
-    a.  Employee Referral List (Records the registration status of
-        employee referral members.) Include the following information):
-
--   Referrer: The employee\'s name.
-
--   Referee: Member\'s mobile phone number.
-
--   Registration Date: The date on which the member registered.
-
-    a.  Member commission list (record the commission generated by
-        members referring other members.) Include the following
-        information):
-
--   Referrer: The member\'s mobile phone number.
-
--   Referee: The mobile phone number of the purchasing member.
-
--   Purchaser: The mobile phone number of the member who actually
-    purchased the product.
-
--   Order number: The order number of the purchase that triggers the
-    commission.
-
--   Product Name: The name of the product purchased.
-
--   Commission/Transaction: The amount of commission generated per
-    order.
-
--   Date: The date on which the commission is accrued.
-
-    a.  Number of Member Referrals (Statistics on the number of other
-        affiliates and courses referred by members, as well as related
-        commission information.) Include the following information):
-
--   Member: The mobile phone number of the recommended member.
-
--   Mobile phone number: the contact information of the member.
-
--   Number of Member Referrals: The number of members referred by that
-    member.
-
--   Number of Recommended Courses: The number of courses recommended by
-    the member.
-
--   Sum of Commissions: The total amount of commissions received by the
-    member.
-
--   Claimable Bounty Balance: The balance of the commission that members
-    can apply for withdrawal.
-
--   Withdrawn Commission Amount: The amount of commission that the
-    member has withdrawn.
-
--   Date: The date on which the statistics were collected.
-
-    a.  Member Referral List (Records the registration status of other
-        members recommended by members.) Include the following
-        information):
-
--   Referrer: The member\'s mobile phone number.
-
--   Referee: The mobile phone number of the member who was referred.
-
--   Registration Date: The date on which the member registered.
+> Member Referral List (Records the registration status of other
+>     members recommended by members.), Include the following
+>     information:
+>
+> -   Referrer: The member\'s mobile phone number.
+>
+> -   Referee: The mobile phone number of the member who was referred.
+>
+> -   Registration Date: The date on which the member registered.
 
 ## 9. Comment system and after-sales processing
 
@@ -923,27 +739,27 @@ The following is the content of the requirements of Party B and Party A:
 
         -   User Type: Identifies the type of user requesting a
             withdrawal.
-
+        
         -   Recipient: The user or employee who requested the
             withdrawal.
-
+        
         -   Serial number: The unique serial number of each withdrawal
             application.
-
+        
         -   Payout type: The type of payout method for payouts.
-
+        
         -   Receiving account number: The receiving account number of
             the withdrawal amount.
-
+        
         -   Withdrawal Amount: The amount of money requested to be
             withdrawn.
-
+        
         -   Withdrawal Status: The status of the withdrawal application,
             such as pending, approved, paid, etc.
-
+        
         -   Date: The date on which the withdrawal request was
             submitted.
-
+        
         -   Review Settings: Review settings for withdrawal
             applications, including approvers and approval processes.
 
@@ -952,17 +768,17 @@ The following is the content of the requirements of Party B and Party A:
         the following:
 
         -   Serial number: The serial number of the order.
-
+        
         -   Referral: The referee who completes the order.
-
+        
         -   Order Number: The number of the completed order.
-
+        
         -   Product Name: The name of the product purchased in the
             order.
-
+        
         -   Commission: The amount of commission calculated based on the
             execution of the order.
-
+        
         -   Date: The date on which the order was completed.
 
     c.  Referral Management - Recommended Friends: Record the
@@ -970,9 +786,9 @@ The following is the content of the requirements of Party B and Party A:
         including the following:
 
         -   Serial number: The serial number of the recommended friend.
-
+        
         -   Referee: A friend who has been successfully referred.
-
+        
         -   Registration: The date or time when the friend registered.
 
     d.  Generate Referral Management - Employee Referral - My Referral
@@ -988,7 +804,7 @@ The following is the content of the requirements of Party B and Party A:
             serial number, receiving account number, cash withdrawn
             amount, cash pending cash amount, withdrawal status, date,
             etc.
-
+        
         -   Commission withdrawal application: Record the employee\'s
             application for commission withdrawal, including the
             recipient, payment type (Alipay, WeChat), collection
@@ -1058,41 +874,41 @@ The following is the content of the requirements of Party B and Party A:
 > Through the \"My Work\" feature, employees can view their personal
 > information, pay history, create business plans, and record and view
 > their performance, as described below:
-
--   Employee Information Details: Displays the details of the employee,
-    including name, department, job title, etc., and lists the
-    employee\'s job description.
-
--   Location: Only agents on campus have access to this feature.
-
--   Payment records: If the employee does not have a payment record, a
-    prompt message will be displayed: \"There is no payment record of
-    your payment here, please contact the superior of your department in
-    time\". If there is a payment record, the details of the payment
-    record are displayed.
-
--   Business - Make a plan: Employees can make a plan, including a plan
-    name, plan tasks (you can select this month, next month, next
-    month), plan amount, and description.
-
--   Business Plan - Checklist:
-
-    -   Displays a list of business plans made by employees, including
-        information such as plan number, plan name, plan task, plan
-        amount, status, plan start time, and time added.
-
-    -   It provides a function to enter and calculate the actual total
-        amount per month.
-
--   My Performance - Current Month Performance:
-
-    -   Displays the employee\'s performance list for the current month,
-        including performance ID, plan number, signature, platform order
-        number, platform, amount, time when the performance was added,
-        and other information.
-
-    -   Provides operational functions, such as viewing details or
-        editing performance.
+>
+> -   Employee Information Details: Displays the details of the employee,
+>     including name, department, job title, etc., and lists the
+>     employee\'s job description.
+>
+> -   Location: Only agents on campus have access to this feature.
+>
+> -   Payment records: If the employee does not have a payment record, a
+>     prompt message will be displayed: \"There is no payment record of
+>     your payment here, please contact the superior of your department in
+>     time\". If there is a payment record, the details of the payment
+>     record are displayed.
+>
+> -   Business - Make a plan: Employees can make a plan, including a plan
+>     name, plan tasks (you can select this month, next month, next
+>     month), plan amount, and description.
+>
+> -   Business Plan - Checklist:
+>
+>     -   Displays a list of business plans made by employees, including
+>         information such as plan number, plan name, plan task, plan
+>         amount, status, plan start time, and time added.
+>
+>     -   It provides a function to enter and calculate the actual total
+>         amount per month.
+>
+> -   My Performance - Current Month Performance:
+>
+>     -   Displays the employee\'s performance list for the current month,
+>         including performance ID, plan number, signature, platform order
+>         number, platform, amount, time when the performance was added,
+>         and other information.
+>
+>     -   Provides operational functions, such as viewing details or
+>         editing performance.
 
 ## 16. A description of the list of rating ranking information
 
@@ -1137,8 +953,6 @@ The following is the content of the requirements of Party B and Party A:
     efficient communication and problem solving between the technical
     support team of Party A and the development and testing team of
     Party B. Here\'s what to do:
-
-<!-- -->
 
 -   Ticket Dashboard:
 
@@ -1238,8 +1052,6 @@ The following is the content of the requirements of Party B and Party A:
     functions on the departmental site to facilitate communication and
     message transmission between departments.
 
-<!-- -->
-
 -   Establish the basic functions of the internal message system:
 
     a.  Department Mailbox - Manage List:
@@ -1247,7 +1059,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Displays the management list of departmental messages,
             including the message content, occurrence time, department
             notification, message type, and other fields.
-
+    
         -   Users can tag messages through the tagging function for
             later viewing or processing.
 
@@ -1262,7 +1074,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Allows administrators to add message authorizations,
             including information such as the authorized department,
             authorized role, received role, and department notification.
-
+    
         -   Provide all-opt-all/all-opt-out and invert opt-all functions
             authorized to specific roles to flexibly manage the
             recipients of notifications.
@@ -1272,7 +1084,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Displays the list of message type authorizations, including
             the fields of department notification, message type, message
             status, authorization code, and send to.
-
+    
         -   Provides the ability for administrators to view
             authorization information and manage authorization status.
 
@@ -1289,7 +1101,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Displays the list of messages sent by the user, including
             the message content, occurrence time, department
             notification, message type, and other fields.
-
+        
         -   It provides the operation of marking read/unread, which is
             convenient for users to manage sent messages.
 
@@ -1307,7 +1119,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Displays the list of messages from the department to which
             the user belongs, including fields such as message content,
             occurrence time, department notification, and message type.
-
+        
         -   Users can view notification messages posted within the
             department.
 
@@ -1320,8 +1132,6 @@ The following is the content of the requirements of Party B and Party A:
     system of Party A with the permission management system of Party B,
     so as to ensure that the permission settings of Party A users are
     unified with Party B.
-
-<!-- -->
 
 -   Department Management:
 
@@ -1414,63 +1224,54 @@ The following is the content of the requirements of Party B and Party A:
 
     -   Modular design: The interface will be modular, allowing for
         flexible combination and adaptation to needs.
-
     -   Customized Styles: Provide customizable style themes and color
         schemes to match the brand image and visual identity of Party A
         and Party B.
-
     -   Personalization Components: Customizing function-specific
         components such as course listings, payment pages, order
         management, and more to enhance user experience and operational
         efficiency based on needs.
-
     -   Dynamic Content Management: Provides dynamic content management
         features that enable parties A and B to easily update and manage
         website content, including text, images, videos, etc.
-
     -   User rights management: Implement multi-level user rights
         management to ensure that users with different roles have
         appropriate operation permissions to ensure system security and
         data integrity.
-
     -   The export and import of information is implemented through the
         PHPExcel source code.
-
-    -   
-
     -   Interface customization process
-
+    
         -   Requirements collection and analysis: In-depth understanding
             of the interface requirements of Party A and Party B,
             including functional requirements, style requirements, user
             experience, etc.
-
+    
         -   Interface Design and Prototyping: Design interface
             prototypes according to requirements, including page layout,
             functional module division, interaction design, etc.
-
+    
         -   Development and customization: Based on the KoneCMS
             framework, development and customization are carried out to
             realize the function and style customization of the
             interface.
-
+    
         -   Testing & Feedback: Conduct functional testing and user
             experience testing, collect feedback, and adjust and
             optimize the interface design in a timely manner.
-
+    
         -   Deployment and go-live: Deploy the customized UI to the test
             environment for final testing, and then deploy it to the
             production environment to achieve the launch of the
             customized UI.
-
     -   Technical implementation schemes
-
+    
         -   HTML/CSS/JavaScript: Use front-end technologies to customize
             the layout and style of the interface.
-
+    
         -   Build UI interface based on Bootstrap, colpick,
             datetimepicker and jQuery。
-
+    
         -   KindEditor Customized Plug-in Development: Develop
             customized plug-ins or components for specific needs to
             improve system functionality and user experience.
@@ -1488,30 +1289,24 @@ The following is the content of the requirements of Party B and Party A:
         different business modules can be stored in different database
         instances, improving the concurrent processing capacity and
         scalability of the system.
-
     -   Permission control and data access control: Implement a strict
         permission control mechanism to prevent data leakage and illegal
         operations by controlling the access rights of different users
         or roles to data.
-
     -   Data encryption and secure transmission: Encryption algorithms
         are used to encrypt and store sensitive data in the system, and
         secure transmission protocols (such as HTTPS) are used to ensure
         the security of data during transmission.
-
     -   Data backup and recovery: (1) Regularly back up system data and
         ensure data security, integrity and reliability to cope with
         accidental data loss or damage. (2) Design a suitable data
         recovery strategy to deal with unexpected situations or data
         loss issues.
-
     -   Monitoring and alarm: (1) Configure data monitoring and alarm
         system to monitor data storage and access in real time, and find
         and deal with abnormal situations in time. (2) Design
         appropriate monitoring indicators and thresholds to ensure the
         stability and reliability of data.
-
-    -   
 
 These docking contents need to be designed and developed according to
 the specific situation to meet the actual needs of Party A and Party B
@@ -1694,8 +1489,6 @@ Here\'s a closer look at the core modules:
     server to be present when using System V Message Queuing for
     inter-process communication.
 
-<!-- -->
-
 31. Additional Information.
 
 -   In addition to basic server configuration information, this article
@@ -1722,191 +1515,191 @@ Here\'s a closer look at the core modules:
 > **Technical Solution:**
 >
 > A. Resolution of Access Speed
-
--   On-page optimization: Make a website in accordance with W3C
-    standards.
-
--   Directory structure: no more than 3 layers.
-
--   Image optimization: GIF and JPG formats are used, and a single image
-    does not exceed 100K.
-
--   Code Optimization:
-
--   Structural optimization
-
--   Reduce code scrap
+>
+> -   On-page optimization: Make a website in accordance with W3C
+>     standards.
+>
+> -   Directory structure: no more than 3 layers.
+>
+> -   Image optimization: GIF and JPG formats are used, and a single image
+>     does not exceed 100K.
+>
+> -   Code Optimization:
+>
+> -   Structural optimization
+>
+> -   Reduce code scrap
 
 > B. Search Engine Optimization
-
--   Reasonable website structure: pay attention to the tiled display of
-    product categories, the way of turning pages, the display of entries
-    on the catalog page, etc.
-
--   On-page optimization: keyword density, page title specifications.
+>
+> -   Reasonable website structure: pay attention to the tiled display of
+>     product categories, the way of turning pages, the display of entries
+>     on the catalog page, etc.
+>
+> -   On-page optimization: keyword density, page title specifications.
 
 > C. Other Optimizations:
-
--   Avoid bad links and duplicate code.
-
--   Try to avoid writing JavaScript code inside the page and use
-    external calls.
-
--   Add exchange links.
+>
+> -   Avoid bad links and duplicate code.
+>
+> -   Try to avoid writing JavaScript code inside the page and use
+>     external calls.
+>
+> -   Add exchange links.
 
 > **SEO Internal Structure Optimization:**
 >
 > A. Website Structure:
-
--   Conform to W3C standards, unified pages, and writing specifications.
-
--   • CSS and JS are called externally, and the layout uses DIV+CSS.
+>
+> -   Conform to W3C standards, unified pages, and writing specifications.
+>
+> -   CSS and JS are called externally, and the layout uses DIV+CSS.
 
 > B. Page Elements:
-
--   Make a sitemap, using text links.
-
--   Build friendly pages.
-
--   Make a Robots.txt file.
+>
+> -   Make a sitemap, using text links.
+>
+> -   Build friendly pages.
+>
+> -   Make a Robots.txt file.
 
 > C. Content Elements:
-
--   Keywords are bolded.
-
--   Image optimization.
-
--   Compatible with popular browsers.
+>
+> -   Keywords are bolded.
+>
+> -   Image optimization.
+>
+> -   Compatible with popular browsers.
 
 > D. Keyword Optimization:
-
--   \<meta\> tag settings.
-
--   Keyword proportional control.
-
--   Hyperlink adds the TITLE attribute.
+>
+> -   \<meta\> tag settings.
+>
+> -   Keyword proportional control.
+>
+> -   Hyperlink adds the TITLE attribute.
 
 > E. Navigation Structure:
+>
+> - Each page has a navigation bar for breadcrumb navigation.
 
--   Each page has a navigation bar for breadcrumb navigation.
-
-> F. Database Design:
-
--   Field design, coding specifications, and SQL statement optimization.
+> F. Database Design: 
+>
+> - Field design, coding specifications, and SQL statement optimization.
 
 > **Project management:**
-
--   The project manager is responsible for communication and
-    coordination, and is supported by the project design director and
-    technical director. One of our project managers will be assigned to
-    fully manage and coordinate the project for the website. The project
-    manager will provide a single point of communication and
-    coordination with your company on our behalf to drive the completion
-    of the project on time, quality and cost at different stages. The
-    project manager is professionally and fully supported by our project
-    design director and technical director. Similarly, we recommend that
-    your company should appoint a project manager to establish a single
-    point of communication between the two parties. Once the
-    communication mechanism between the two parties is established, the
-    project managers of both parties will be responsible for
-    coordinating and resolving various problems on behalf of both
-    parties to avoid project delays or other problems caused by unclear
-    responsibilities.
-
--   Improve management systems and tools, and formulate standardized
-    processes. Based on our project management methodology ACM
-    (Application Customization Method), combined with the special needs
-    of your company\'s website project, we will pre-define the main
-    daily work of the project, and formulate a standardized process that
-    can be operated and easily verified. For unexpected events, our
-    project management personnel will have enough practical experience
-    to deal with them.
-
--   The effectiveness of project management is directly related to the
-    success or failure of the entire project. In particular, the
-    implementation of new technology application projects related to the
-    Internet is difficult both at home and abroad, and successful
-    project management is required. We are fully aware of this and are
-    ready for it. We have rich experience in project management, and
-    have a set of practical and continuous improvement of implementation
-    methods and experienced project management personnel. Our project
-    management closely follows the principles of the World Project
-    Management Institute, combined with the characteristics of IT system
-    development and creative design of Internet projects, and our
-    approach is suitable for projects with a large number of system
-    application development and creative design combinations. This has
-    been demonstrated and confirmed in more and more of our successful
-    projects. The implementation method of the project is to ensure that
-    each of our projects can be successfully completed, effectively
-    cooperate with various professionals to participate, organize and
-    plan resource management and allocation, and ensure that our
-    projects are completed on time and with quality to the greatest
-    extent. As the result of our years of accumulation and exploration,
-    here we will introduce it.
-
--   Project Implementation Methodology:
-
-    -   Planning Definition (As the initiation of the project, the
-        purpose of the planning definition phase is to be able to
-        accurately grasp the business objectives of the client, and to
-        establish the project scope, integrity and operational
-        implementation. This includes a review of the client\'s business
-        strategy; Identify, document, and prioritize a list of
-        requirements and propose a draft system architecture. According
-        to the characteristics of the project, we will select the
-        project members, integrate the project team and arrange the
-        project plan. ）；
-
-    -   Analytical Design (After obtaining the results of the project
-        objectives, scope, and high-level requirements list, we will
-        perform a more detailed analysis and design for the functional,
-        technical and visual aspects of the system architecture. We will
-        record them one by one and discuss them with you to improve
-        them. If necessary, we will make a prototype or demo system to
-        test our concept. After that, we will complete the content
-        development, interactive information and interface design
-        according to this design. ）；
-
-    -   Coding (We started building this system.) The work of the
-        development integration phase is to develop the results of all
-        the designs. If necessary, we will also integrate this new
-        system with your existing system. This phase will complete a
-        functioning system. ）；
-
-    -   Test acceptance (The test work includes two parts: functional
-        test and performance test.) The completed system is then
-        migrated from the development environment to the release
-        environment. Planned release of features and data until all are
-        open for commercial operations. We will document and transfer
-        all the technical and regulatory knowledge that our customers
-        must know and understand to ensure that they know how to operate
-        and maintain the system. Users and we will conduct a trial
-        operation of the system within a limited range, and after a
-        period of trial operation of the system, the system will be put
-        into official operation. ）；
-
-    -   Maintenance management (in addition to the necessary monitoring
-        and maintenance of the living system to ensure its normal
-        operation, the more important task of the management and
-        maintenance stage is to test the actual system performance from
-        the system that is in actual operation; Identify parts of the
-        system that need to be improved and upgraded during operations;
-        Measure and compare the success of the system against business
-        objectives and requirements. Organize all this information into
-        a plan that will allow for future enhancements and upgrades to
-        the website\'s system. ）。
-
-    -   **Phases, Steps, and Tasks:** We divide the project time cycle
-        into 5 phases, and use corresponding steps (Processes) to
-        achieve the goals of different stages in different phases. Tasks
-        are included in different steps to complete the work of that
-        step. From shallow to deep, from total to fine, the three
-        elements are interconnected and interact with each other,
-        organically forming the blueprint of the whole method. In
-        practice, resources are dynamically allocated for implementation
-        according to different tasks in different periods, and then
-        combined with the expertise of professionals, so that the
-        project can be properly completed.
+>
+> -   The project manager is responsible for communication and
+>     coordination, and is supported by the project design director and
+>     technical director. One of our project managers will be assigned to
+>     fully manage and coordinate the project for the website. The project
+>     manager will provide a single point of communication and
+>     coordination with your company on our behalf to drive the completion
+>     of the project on time, quality and cost at different stages. The
+>     project manager is professionally and fully supported by our project
+>     design director and technical director. Similarly, we recommend that
+>     your company should appoint a project manager to establish a single
+>     point of communication between the two parties. Once the
+>     communication mechanism between the two parties is established, the
+>     project managers of both parties will be responsible for
+>     coordinating and resolving various problems on behalf of both
+>     parties to avoid project delays or other problems caused by unclear
+>     responsibilities.
+>
+> -   Improve management systems and tools, and formulate standardized
+>     processes. Based on our project management methodology ACM
+>     (Application Customization Method), combined with the special needs
+>     of your company\'s website project, we will pre-define the main
+>     daily work of the project, and formulate a standardized process that
+>     can be operated and easily verified. For unexpected events, our
+>     project management personnel will have enough practical experience
+>     to deal with them.
+>
+> -   The effectiveness of project management is directly related to the
+>     success or failure of the entire project. In particular, the
+>     implementation of new technology application projects related to the
+>     Internet is difficult both at home and abroad, and successful
+>     project management is required. We are fully aware of this and are
+>     ready for it. We have rich experience in project management, and
+>     have a set of practical and continuous improvement of implementation
+>     methods and experienced project management personnel. Our project
+>     management closely follows the principles of the World Project
+>     Management Institute, combined with the characteristics of IT system
+>     development and creative design of Internet projects, and our
+>     approach is suitable for projects with a large number of system
+>     application development and creative design combinations. This has
+>     been demonstrated and confirmed in more and more of our successful
+>     projects. The implementation method of the project is to ensure that
+>     each of our projects can be successfully completed, effectively
+>     cooperate with various professionals to participate, organize and
+>     plan resource management and allocation, and ensure that our
+>     projects are completed on time and with quality to the greatest
+>     extent. As the result of our years of accumulation and exploration,
+>     here we will introduce it.
+>
+> -   Project Implementation Methodology:
+>
+>     -   Planning Definition (As the initiation of the project, the
+>         purpose of the planning definition phase is to be able to
+>         accurately grasp the business objectives of the client, and to
+>         establish the project scope, integrity and operational
+>         implementation. This includes a review of the client\'s business
+>         strategy; Identify, document, and prioritize a list of
+>         requirements and propose a draft system architecture. According
+>         to the characteristics of the project, we will select the
+>         project members, integrate the project team and arrange the
+>         project plan. ）；
+>
+>     -   Analytical Design (After obtaining the results of the project
+>         objectives, scope, and high-level requirements list, we will
+>         perform a more detailed analysis and design for the functional,
+>         technical and visual aspects of the system architecture. We will
+>         record them one by one and discuss them with you to improve
+>         them. If necessary, we will make a prototype or demo system to
+>         test our concept. After that, we will complete the content
+>         development, interactive information and interface design
+>         according to this design. ）；
+>
+>     -   Coding (We started building this system.) The work of the
+>         development integration phase is to develop the results of all
+>         the designs. If necessary, we will also integrate this new
+>         system with your existing system. This phase will complete a
+>         functioning system. ）；
+>
+>     -   Test acceptance (The test work includes two parts: functional
+>         test and performance test.) The completed system is then
+>         migrated from the development environment to the release
+>         environment. Planned release of features and data until all are
+>         open for commercial operations. We will document and transfer
+>         all the technical and regulatory knowledge that our customers
+>         must know and understand to ensure that they know how to operate
+>         and maintain the system. Users and we will conduct a trial
+>         operation of the system within a limited range, and after a
+>         period of trial operation of the system, the system will be put
+>         into official operation. ）；
+>
+>     -   Maintenance management (in addition to the necessary monitoring
+>         and maintenance of the living system to ensure its normal
+>         operation, the more important task of the management and
+>         maintenance stage is to test the actual system performance from
+>         the system that is in actual operation; Identify parts of the
+>         system that need to be improved and upgraded during operations;
+>         Measure and compare the success of the system against business
+>         objectives and requirements. Organize all this information into
+>         a plan that will allow for future enhancements and upgrades to
+>         the website\'s system. ）。
+>
+>     -   **Phases, Steps, and Tasks:** We divide the project time cycle
+>         into 5 phases, and use corresponding steps (Processes) to
+>         achieve the goals of different stages in different phases. Tasks
+>         are included in different steps to complete the work of that
+>         step. From shallow to deep, from total to fine, the three
+>         elements are interconnected and interact with each other,
+>         organically forming the blueprint of the whole method. In
+>         practice, resources are dynamically allocated for implementation
+>         according to different tasks in different periods, and then
+>         combined with the expertise of professionals, so that the
+>         project can be properly completed.
 
 # 9. Project management and final payment processing
 
@@ -1914,7 +1707,7 @@ Here\'s a closer look at the core modules:
 > effective project management is crucial. We will use the following
 > methods to manage the project and handle the final payment:
 
-## 1. Agile development methods
+1. Agile development methods
 
 > In order to cope with the uncertainty and change in the project, we
 > will adopt agile development methods. Agile methodologies emphasize
@@ -1924,7 +1717,7 @@ Here\'s a closer look at the core modules:
 > respond to the changes and challenges in the project and ensure that
 > the project delivers high-quality results within a limited timeframe.
 
-## 2. Iterative cycle planning
+2. Iterative cycle planning
 
 > We will develop a detailed iteration cycle plan, breaking down the
 > project into multiple iteration cycles, each lasting about 1-2 weeks.
@@ -1933,7 +1726,7 @@ Here\'s a closer look at the core modules:
 > can identify and resolve issues in a timely manner and ensure that
 > projects are delivered on time.
 
-## 3. Final payment agreement and delivery standard
+3. Final payment agreement and delivery standard
 
 > At the initiation stage of the project, we will work with Party A and
 > Party B to develop the final payment agreement and delivery standards.
@@ -1944,7 +1737,7 @@ Here\'s a closer look at the core modules:
 > corresponding stage can only be obtained if the delivery criteria are
 > met.
 
-## 4. Risk Management
+4. Risk Management
 
 > During the course of the project, we will continuously conduct risk
 > management and evaluation, and promptly identify and respond to risk
@@ -1967,142 +1760,142 @@ with a view to mutual compliance.
 ## 1. Rights and obligations of the parties
 
 > I. Rights and Obligations of Party A
-
-a.  Before the start of website development and production, provide
-    complete materials and pictures (electronic documents) about the
-    enterprise, and ensure that the materials are complete and the
-    pictures are clear.
-
-b.  Party A will assist Party B\'s system developers and designers to
-    fully understand Party A\'s business content or process, and provide
-    corresponding facilitation conditions.
-
-c.  Party A shall promptly give feedback in writing to Party B on the
-    result of each revision, and fax or email it to Party B after being
-    signed and approved by the project manager of Party A as a backup
-    data for progress control.
-
-d.  The business carried out must be in accordance with national laws
-    and social public interests.
-
-e.  Pay the fee at the time specified in the contract.
-
-f.  Before Party A has paid all the contract money, Party A shall not
-    disclose any content in the website system analysis report provided
-    by Party B to a third party, otherwise it will be deemed to be a
-    complete breach of contract.
-
-g.  When using the virtual host provided by Party B for information
-    dissemination and self-service, Party A shall strictly abide by the
-    Interim Provisions of the People\'s Republic of China on the
-    Administration of the International Networking of Computer
-    Information Networks issued by the State Council, the Measures for
-    the Administration of the International Networking of China\'s
-    Public Computer Internet and the Interim Measures for the
-    Administration of the Registration of Internet Domain Names in China
-    issued by the Ministry of Posts and Telecommunications, and abide by
-    the relevant laws, regulations and administrative rules and
-    regulations of the State. If Party A does not use Party B\'s Virtual
-    Host, the provisions of this section shall not apply.
-
-h.  Party A shall abide by the international practices of the Internet
-    when using Party B\'s virtual hosting to conduct business, and shall
-    not send malicious or provocative texts or spam to others. If Party
-    A does not use Party B\'s Virtual Host, the provisions of this
-    section shall not apply.
-
-i.  The virtual hosting applied by Party A can only be used by itself
-    and cannot be transferred or rented. Party A shall be directly and
-    severally liable for all the consequences caused by the transfer or
-    lease. If Party A does not use Party B\'s Virtual Host, the
-    provisions of this section shall not apply.
-
-j.  Party A shall properly keep the virtual host management account,
-    password, and other resources provided by Party B. If the account
-    and password are leaked due to reasons attributable to Party A,
-    Party A shall bear all the consequences. If Party A does not use
-    Party B\'s Virtual Host, the provisions of this section shall not
-    apply.
-
-k.  Party A shall comply with the website production process of Party B,
-    seal and confirm the website renderings in a timely manner, and pay
-    the corresponding amount of the website in accordance with the
-    contract.
-
-l.  Party A will add relevant content to the website by itself, and
-    Party B will be responsible for guiding and solving any problems
-    encountered.
-
-m.  If the domain name and space of the first year of the website
-    expire, Party A shall renew the second year\'s fee in a timely
-    manner, and it will be suspended if the website construction work
-    has not been completed.
-
-n.  If Party A uses its own server, Party B should provide the packets,
-    server configuration; Website maintenance (involving server
-    authority cross-fertilization) and data upload.
-
-o.  In view of the information provided by Party A and the ideas for
-    website construction, Party A has the right to require Party B to
-    obtain the source code of the website within 10 working days after
-    receiving the final payment.
+>
+> a.  Before the start of website development and production, provide
+>     complete materials and pictures (electronic documents) about the
+>     enterprise, and ensure that the materials are complete and the
+>     pictures are clear.
+>
+> b.  Party A will assist Party B\'s system developers and designers to
+>     fully understand Party A\'s business content or process, and provide
+>     corresponding facilitation conditions.
+>
+> c.  Party A shall promptly give feedback in writing to Party B on the
+>     result of each revision, and fax or email it to Party B after being
+>     signed and approved by the project manager of Party A as a backup
+>     data for progress control.
+>
+> d.  The business carried out must be in accordance with national laws
+>     and social public interests.
+>
+> e.  Pay the fee at the time specified in the contract.
+>
+> f.  Before Party A has paid all the contract money, Party A shall not
+>     disclose any content in the website system analysis report provided
+>     by Party B to a third party, otherwise it will be deemed to be a
+>     complete breach of contract.
+>
+> g.  When using the virtual host provided by Party B for information
+>     dissemination and self-service, Party A shall strictly abide by the
+>     Interim Provisions of the People\'s Republic of China on the
+>     Administration of the International Networking of Computer
+>     Information Networks issued by the State Council, the Measures for
+>     the Administration of the International Networking of China\'s
+>     Public Computer Internet and the Interim Measures for the
+>     Administration of the Registration of Internet Domain Names in China
+>     issued by the Ministry of Posts and Telecommunications, and abide by
+>     the relevant laws, regulations and administrative rules and
+>     regulations of the State. If Party A does not use Party B\'s Virtual
+>     Host, the provisions of this section shall not apply.
+>
+> h.  Party A shall abide by the international practices of the Internet
+>     when using Party B\'s virtual hosting to conduct business, and shall
+>     not send malicious or provocative texts or spam to others. If Party
+>     A does not use Party B\'s Virtual Host, the provisions of this
+>     section shall not apply.
+>
+> i.  The virtual hosting applied by Party A can only be used by itself
+>     and cannot be transferred or rented. Party A shall be directly and
+>     severally liable for all the consequences caused by the transfer or
+>     lease. If Party A does not use Party B\'s Virtual Host, the
+>     provisions of this section shall not apply.
+>
+> j.  Party A shall properly keep the virtual host management account,
+>     password, and other resources provided by Party B. If the account
+>     and password are leaked due to reasons attributable to Party A,
+>     Party A shall bear all the consequences. If Party A does not use
+>     Party B\'s Virtual Host, the provisions of this section shall not
+>     apply.
+>
+> k.  Party A shall comply with the website production process of Party B,
+>     seal and confirm the website renderings in a timely manner, and pay
+>     the corresponding amount of the website in accordance with the
+>     contract.
+>
+> l.  Party A will add relevant content to the website by itself, and
+>     Party B will be responsible for guiding and solving any problems
+>     encountered.
+>
+> m.  If the domain name and space of the first year of the website
+>     expire, Party A shall renew the second year\'s fee in a timely
+>     manner, and it will be suspended if the website construction work
+>     has not been completed.
+>
+> n.  If Party A uses its own server, Party B should provide the packets,
+>     server configuration; Website maintenance (involving server
+>     authority cross-fertilization) and data upload.
+>
+> o.  In view of the information provided by Party A and the ideas for
+>     website construction, Party A has the right to require Party B to
+>     obtain the source code of the website within 10 working days after
+>     receiving the final payment.
 
 > II\. Rights and Obligations of Party B
-
-a.  Complete the construction and production of the website on time
-    according to the materials provided by Party A.
-
-b.  Party B shall not disclose any content in the website construction
-    ideas and system analysis report provided by Party A to a third
-    party, otherwise it will be deemed to be a complete breach of
-    contract.
-
-c.  Party B has the right to modify the relevant web pages or programs
-    only according to the content of the feedback form signed and
-    confirmed by Party A.
-
-d.  Without the consent of Party A, Party B shall not arbitrarily change
-    the original materials or samples submitted by Party A. Party B
-    shall keep confidential the information provided by Party A for the
-    creation of the website until Party A makes a statement to the
-    contrary.
-
-e.  Party B has the right to receive the contract price according to the
-    contract, and Party B has the right to unilaterally terminate the
-    contract if Party A fails to pay within 10 working days after the
-    deadline specified in the contract.
-
-f.  Party B will arrange system development and maintenance personnel to
-    participate in Party A\'s business operation system, and communicate
-    with Party A in a timely manner to ensure the safe and reliable
-    operation and normal use of the system.
-
-g.  Party B shall not disclose Party A\'s business data and any
-    information provided by Party A to a third party in any way without
-    permission, otherwise Party B will be deemed to be in complete
-    breach of contract.
-
-h.  Party B is obliged to give priority to Party A\'s services in the
-    later expansion of the project.
-
-i.  Party B guarantees the safety and stability of Party A\'s operation
-    platform, and if it is temporarily unable to provide normal services
-    to Party A due to equipment failure in Party B\'s computer room,
-    Party B shall respond and reply within 2 hours within working days,
-    and eliminate the fault in a timely manner, and ensure that normal
-    work is resumed within 3 working days in case of major problems. In
-    case of emergency, Party B will provide timely response and
-    emergency treatment on non-working days to ensure that users can use
-    the product functions normally.
-
-j.  According to the requirements of national policies, if it is found
-    that the information content of Party A does not meet the
-    requirements, Party B has the right to notify Party A to correct it
-    and stop the communication service. If Party A does not use Party
-    B\'s Virtual Host, the provisions of this section shall not apply.
-
-k.  From the date of the official launch of the website, Party B will
-    provide free maintenance of the website for 1 year.
+>
+> a.  Complete the construction and production of the website on time
+>     according to the materials provided by Party A.
+>
+> b.  Party B shall not disclose any content in the website construction
+>     ideas and system analysis report provided by Party A to a third
+>     party, otherwise it will be deemed to be a complete breach of
+>     contract.
+>
+> c.  Party B has the right to modify the relevant web pages or programs
+>     only according to the content of the feedback form signed and
+>     confirmed by Party A.
+>
+> d.  Without the consent of Party A, Party B shall not arbitrarily change
+>     the original materials or samples submitted by Party A. Party B
+>     shall keep confidential the information provided by Party A for the
+>     creation of the website until Party A makes a statement to the
+>     contrary.
+>
+> e.  Party B has the right to receive the contract price according to the
+>     contract, and Party B has the right to unilaterally terminate the
+>     contract if Party A fails to pay within 10 working days after the
+>     deadline specified in the contract.
+>
+> f.  Party B will arrange system development and maintenance personnel to
+>     participate in Party A\'s business operation system, and communicate
+>     with Party A in a timely manner to ensure the safe and reliable
+>     operation and normal use of the system.
+>
+> g.  Party B shall not disclose Party A\'s business data and any
+>     information provided by Party A to a third party in any way without
+>     permission, otherwise Party B will be deemed to be in complete
+>     breach of contract.
+>
+> h.  Party B is obliged to give priority to Party A\'s services in the
+>     later expansion of the project.
+>
+> i.  Party B guarantees the safety and stability of Party A\'s operation
+>     platform, and if it is temporarily unable to provide normal services
+>     to Party A due to equipment failure in Party B\'s computer room,
+>     Party B shall respond and reply within 2 hours within working days,
+>     and eliminate the fault in a timely manner, and ensure that normal
+>     work is resumed within 3 working days in case of major problems. In
+>     case of emergency, Party B will provide timely response and
+>     emergency treatment on non-working days to ensure that users can use
+>     the product functions normally.
+>
+> j.  According to the requirements of national policies, if it is found
+>     that the information content of Party A does not meet the
+>     requirements, Party B has the right to notify Party A to correct it
+>     and stop the communication service. If Party A does not use Party
+>     B\'s Virtual Host, the provisions of this section shall not apply.
+>
+> k.  From the date of the official launch of the website, Party B will
+>     provide free maintenance of the website for 1 year.
 
 ## 2. Completion of website construction and release time
 
@@ -2368,8 +2161,6 @@ k.  From the date of the official launch of the website, Party B will
 Through the above processing, we will ensure the smooth completion of
 the project and lay a solid foundation for future development to achieve
 a win-win situation.
-
-**\
 **
 
 # 13. Appendix
