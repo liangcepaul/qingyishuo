@@ -384,7 +384,7 @@ The following is the content of the requirements of Party B and Party A:
 ## 2. Integration of payment features
 
 > Party B uses the SDKs of Alipay and WeChat Pay to provide the payment
-> function of the front desk. (1) The front-end sends the payment
+> function of the front-end. (1) The front-end sends the payment
 > request to the back-end asynchronously or by other means. (2) After
 > receiving the payment request, the backend uses the SDK of Alipay and
 > WeChat Pay to perform payment operations. (3) The backend returns the
@@ -1059,7 +1059,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Displays the management list of departmental messages,
             including the message content, occurrence time, department
             notification, message type, and other fields.
-    
+        
         -   Users can tag messages through the tagging function for
             later viewing or processing.
 
@@ -1074,7 +1074,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Allows administrators to add message authorizations,
             including information such as the authorized department,
             authorized role, received role, and department notification.
-    
+        
         -   Provide all-opt-all/all-opt-out and invert opt-all functions
             authorized to specific roles to flexibly manage the
             recipients of notifications.
@@ -1084,7 +1084,7 @@ The following is the content of the requirements of Party B and Party A:
         -   Displays the list of message type authorizations, including
             the fields of department notification, message type, message
             status, authorization code, and send to.
-    
+        
         -   Provides the ability for administrators to view
             authorization information and manage authorization status.
 
